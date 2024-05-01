@@ -83,7 +83,7 @@ cpp파일에서는 각각 학생들의 총점과 평균, 각각 과목별로 총
     
    2. 쿼리실행
     
-   3. 
+   3. db닫기
 
 
    ---
@@ -159,3 +159,6 @@ cpp파일에서는 각각 학생들의 총점과 평균, 각각 과목별로 총
 
 #
 <br/>
+
+# cpp result
+![cpp_result](https://github.com/jhon-rjf/dblitecpp/blob/main/cppcapture.jpg)
