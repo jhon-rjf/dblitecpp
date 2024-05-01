@@ -88,6 +88,8 @@ cpp파일에서는 각각 학생들의 총점과 평균, 각각 과목별로 총
 
    ---
    ## CODE
+
+   ### file PATH를 본 파일이 있는 절대경로로 맞춰준다. dbpath
    ```C++
     #include <iostream>
     #include <sqlite3.h>
