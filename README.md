@@ -30,9 +30,7 @@ cpp파일에서는 각각 학생들의 총점과 평균, 각각 과목별로 총
    brew install sqlite
    ```
 # 
-
-  
-
+<br/>
  *2. database 생성 및 내용 추가*
  
   ```bash
@@ -42,7 +40,7 @@ cpp파일에서는 각각 학생들의 총점과 평균, 각각 과목별로 총
 ![grade table](https://github.com/jhon-rjf/dblitecpp/blob/main/grade_table%20.png)
 
 #   
-
+<br/>
  *3. XCode 설정*
 
  
@@ -54,7 +52,8 @@ cpp파일에서는 각각 학생들의 총점과 평균, 각각 과목별로 총
 
   c. **Link Binary With Libraries**에 +버튼, libsqlite3.0tbd, libsqlite3.tbd 추가  
 
-#   
+#  
+<br/>
  *4. cpp 파일 생성*
  
    a. 헤더파일 추가
@@ -157,3 +156,6 @@ cpp파일에서는 각각 학생들의 총점과 평균, 각각 과목별로 총
       return 0;
     }
 ```
+
+#
+<br/>
